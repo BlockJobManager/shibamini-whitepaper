@@ -2,7 +2,7 @@
 
 pg. 1
 SHIBAMINI
-Motto: The Gate to the Meme World
+Motto: The Gateway to the Memecoin World
 WHITE PAPER
 https://shibamini.com The gate to the meme world
  
@@ -18,27 +18,22 @@ TABLE OF CONTENT
  8: PROJECT CYCLE
  9: PLATFORMS
  
-https://shibamini.com The gate to the meme world
+https://shibamini.com The gateway to the memecoin world
 pg. 3
 INTRODUCTION
 After several years of development in the crypto world and the 
 world at large, several coins have been developed with lower fees 
 than that of Bitcoin.
-This has provided a leverage for those with little capital an 
+This has provided a leverage for those with little capital with an 
 avenue to invest into the crypto world.
 Doge coin and ShibaInu are two coins which have a good road 
 map and great plans for their holders with great future plans.
-What’s new?
-ShibaMini is going to pay ShibaInu and doge holders at each 
-transaction.
-Interestingly, it has low fees of 5% ,which simply means that the 
-fees you pay(increment) only applies to sending to shibainu and 
-doge holders.
+
 https://shibamini.com The gate to the meme world
 pg. 4
 ABOUT SHIBAMINI
-ShibaMini: The gate to the meme world
-We market, vote, rank, pay, recruit, reward in memecoins.
+ShibaMini: The gateway to the memecoin world
+We market, vote, rank, remunerate, recruit, reward in memecoins.
 ‘Everything coin and token is an expensive joke and joke is 
 expensive via crypto’ – ShibaMini CEO.
 ShibaMini (πShib) official chat: https://t.me/SHIBAMINI
@@ -48,7 +43,7 @@ pg. 5
 WHO WE ARE
 A Decentralized Meme Token that Evolved into a vibrant 
 ecosystem, our goal is to push the decentralized banking system 
-and incentivize the peace between ShibaInu and Doge coin.
+and ........
 In the contract, it can be seen that transactions is per with more 
 user base for shibaMini. So each transaction resulted to give two 
 new holder for shibaMini each time, a shiba inu and doge holder 
